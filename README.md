@@ -1,6 +1,6 @@
 # The South of England Regional Programming Languages Seminar (S-REPLS)
 
-## About
+## About
 
 The South of England Regional Programming Language Seminar (S-REPLS) is a
 regular and informal meeting for those based in the South of England with a
