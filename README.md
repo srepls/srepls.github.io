@@ -7,6 +7,17 @@ regular and informal meeting for those based in the South of England with a
 professional interest &mdash; whether it be academic or commercial &mdash; in
 the semantics and implementation of programming languages.
 
+Southern England has a substantial community of people with an interest in
+programming language theory (PLT).  However, away from the field’s large
+academic conferences there are currently limited opportunities for interaction,
+discussion and proliferation of new ideas, or networking within this community.
+With S-REPLS we are remedying that.
+
+S-REPLS is based on the *Scottish Programming Languages Seminar (SPLS)*, a
+similar informal yet regular meeting of like-minded souls in Scotland.  SPLS is
+well attended and widely anticipated by the PLT community in Scotland, and we
+hope that S-REPLS will continue to be too.
+
 S-REPLS moves around the South of England, and relies on the generosity of
 volunteers.  Meetings are always free to attend.
 
