@@ -34,41 +34,21 @@ You can sign up at www.jiscmail.ac.uk/srepls.  Mail volume is extremely low.
 
 ## Upcoming meeting
 
+**NEW**: S-REPLS 14, Jane Street London, March 8th 2024, organised by Leo White
+and Jeremy Yallop.
+
 ## Previous meetings
 
-* [S-REPLS 12](https://cw-srepls-19.github.io/)
-  (University of Surrey, 23rd‐24th July, 2019)  
-  organised by Brijesh Dongol
-* [S-REPLS 11](https://sreplsevent2019.splashthat.com)
-  (Facebook London, 8th February 2019)  
-  organised by Kathy Gray
-* [S-REPLS 10](http://www.dcs.bbk.ac.uk/~carsten/srepls10/)
-  (Birkbeck, University of London, 18th September 2018)  
-  organised by Carsten Fuhs
-* [S-REPLS 9](http://users.sussex.ac.uk/~mfb21/srepls9/)
-  (University of Sussex, 25th May 2018)  
-  organised by Martin Berger
-* [S-REPLS 8](http://soft-dev.org/events/srepls8/)
-  (King's College London, 5th January 2018)  
-  organised by Lukas Diekmann and Laurence Tratt
-* [S-REPLS 7](https://warwick.ac.uk/fac/sci/dcs/events/srepls7/)
-  (University of Warwick, 22nd September 2017)  
-  organised by Michael Gale, Sara Kalvala, Andrzej Murawski and David Purser
-* [S-REPLS 6](http://srepls6.cs.ucl.ac.uk/)
-  (University College London, 25th May 2017)  
-  organised by Ilya Sergey
-* [S-REPLS 5](https://www.cs.ox.ac.uk/people/ohad.kammar/s-repls-5/)
-  (University of Oxford, 12th January 2017)  
-  organised by Jeremy Gibbons, Sam Staton, and Ohad Kammar
-* [S-REPLS 4](http://srepls4.doc.ic.ac.uk/)
-  (Imperial College London, 27th September 2016)  
-  organised by Alastair Donaldson and Luís Pina
-* [S-REPLS 3](https://www.cs.kent.ac.uk/events/s-repls3/)
-  (University of Kent at Canterbury, 21st April 2016)  
-  organised by Scott Owens and Mark Batty
-* [S-REPLS 2](http://www.cs.mdx.ac.uk/foundations/s-repls-2/)
-  (Middlesex University, 20th November 2015)  
-  organised by Jaap Boender, Raja Nagarajan and Andrei Popescu
-* [S-REPLS 1](http://web.archive.org/web/20160315095858/http://dominic-mulligan.co.uk/?page_id=195)
-  (University of Cambridge, 30th April 2015)  
-  organised by Ohad Kammar, Dominic Mulligan and Jeremy Yallop
+* [S-REPLS 13/Fun in the Afternoon](https://plrg-bristol.github.io/fir/) (University of Bristol, 1st November 2023) organised by Alex Kavvos and Steven Ramsey
+* [S-REPLS 12](https://cw-srepls-19.github.io/) (University of Surrey, 23rd‐24th July, 2019) organised by Brijesh Dongol
+* [S-REPLS 11](https://sreplsevent2019.splashthat.com) (Facebook London, 8th February 2019) organised by Kathy Gray
+* [S-REPLS 10](http://www.dcs.bbk.ac.uk/~carsten/srepls10/) (Birkbeck, University of London, 18th September 2018) organised by Carsten Fuhs
+* [S-REPLS 9](http://users.sussex.ac.uk/~mfb21/srepls9/) (University of Sussex, 25th May 2018) organised by Martin Berger
+* [S-REPLS 8](http://soft-dev.org/events/srepls8/) (King's College London, 5th January 2018) organised by Lukas Diekmann and Laurence Tratt
+* [S-REPLS 7](https://warwick.ac.uk/fac/sci/dcs/events/srepls7/) (University of Warwick, 22nd September 2017) organised by Michael Gale, Sara Kalvala, Andrzej Murawski and David Purser
+* [S-REPLS 6](http://srepls6.cs.ucl.ac.uk/) (University College London, 25th May 2017) organised by Ilya Sergey
+* [S-REPLS 5](https://www.cs.ox.ac.uk/people/ohad.kammar/s-repls-5/) (University of Oxford, 12th January 2017) organised by Jeremy Gibbons, Sam Staton, and Ohad Kammar
+* [S-REPLS 4](http://srepls4.doc.ic.ac.uk/) (Imperial College London, 27th September 2016) organised by Alastair Donaldson and Luís Pina
+* [S-REPLS 3](https://www.cs.kent.ac.uk/events/s-repls3/) (University of Kent at Canterbury, 21st April 2016) organised by Scott Owens and Mark Batty
+* [S-REPLS 2](http://www.cs.mdx.ac.uk/foundations/s-repls-2/) (Middlesex University, 20th November 2015) organised by Jaap Boender, Raja Nagarajan and Andrei Popescu
+* [S-REPLS 1](http://web.archive.org/web/20160315095858/http://dominic-mulligan.co.uk/?page_id=195) (University of Cambridge, 30th April 2015) organised by Ohad Kammar, Dominic Mulligan and Jeremy Yallop
