@@ -34,7 +34,7 @@ You can sign up at www.jiscmail.ac.uk/srepls.  Mail volume is extremely low.
 
 ## Upcoming meeting
 
-**NEW**: S-REPLS 14, Jane Street London, March 8th 2024, organised by Leo White
+**NEW**: [S-REPLS 14](https://www.cl.cam.ac.uk/events/s-repls14/), Jane Street London, March 8th 2024, organised by Leo White
 and Jeremy Yallop.
 
 ## Previous meetings
