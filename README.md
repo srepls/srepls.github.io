@@ -34,11 +34,11 @@ You can sign up at www.jiscmail.ac.uk/srepls.  Mail volume is extremely low.
 
 ## Upcoming meeting
 
-**NEW**: [S-REPLS 14](https://www.cl.cam.ac.uk/events/s-repls14/), Jane Street London, March 8th 2024, organised by Leo White
-and Jeremy Yallop.
+**NEW**: [S-REPLS 15 / Kent Concurrency Workshop](https://cw-srepls-24.github.io/) (University of Kent, Canterbury, 18th July 2024) organised by Marco Paviotti and David Castro-Perez
 
 ## Previous meetings
 
+* [S-REPLS 14](https://www.cl.cam.ac.uk/events/s-repls14/) (Jane Street London, March 8th 2024) organised by Leo White and Jeremy Yallop.
 * [S-REPLS 13/Fun in the Afternoon](https://plrg-bristol.github.io/fir/) (University of Bristol, 1st November 2023) organised by Alex Kavvos and Steven Ramsey
 * [S-REPLS 12](https://cw-srepls-19.github.io/) (University of Surrey, 23rd‐24th July, 2019) organised by Brijesh Dongol
 * [S-REPLS 11](https://sreplsevent2019.splashthat.com) (Facebook London, 8th February 2019) organised by Kathy Gray
