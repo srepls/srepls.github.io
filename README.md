@@ -34,7 +34,7 @@ You can sign up at www.jiscmail.ac.uk/srepls.  Mail volume is extremely low.
 
 ## Upcoming meeting
 
-**NEW**: S-REPLS 16 (Imperial College London, 1st April 2025) organised by Alastair Donaldson
+**NEW**: [S-REPLS 16](https://www.imperial.ac.uk/events/189121/s-repls-16/) (Imperial College London, 1st April 2025) organised by Alastair Donaldson
 
 ## Previous meetings
 
