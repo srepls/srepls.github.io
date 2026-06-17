@@ -34,10 +34,11 @@ You can sign up at www.jiscmail.ac.uk/srepls.  Mail volume is extremely low.
 
 ## Upcoming meeting
 
-**NEW**: [S-REPLS 18](https://plrg-bristol.github.io/SREPLS18/) (University of Bristol, 25th February 2026) organized by Meng Wang and Steven Ramsay
+* [S-REPLS 19](https://www.cl.cam.ac.uk/events/s-repls19/) (University of Cambridge, 1st July 2026) organized by Tobias Grosser and Jeremy Yallop
 
 ## Previous meetings
 
+* [S-REPLS 18](https://plrg-bristol.github.io/SREPLS18/) (University of Bristol, 25th February 2026) organized by Meng Wang and Steven Ramsay
 * [S-REPLS 17](https://aws-experience.com/emea/uki/e/70859/s-repls) (AWS London, 29th October 2025) organized by Stefan Zetsche and Dominic Mulligan
 * [S-REPLS 16](https://www.imperial.ac.uk/events/189121/s-repls-16/) (Imperial College London, 1st April 2025) organised by Alastair Donaldson
 * [S-REPLS 15 / Kent Concurrency Workshop](https://cw-srepls-24.github.io/) (University of Kent, Canterbury, 18th July 2024) organised by Marco Paviotti and David Castro-Perez
